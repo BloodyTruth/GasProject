@@ -5,7 +5,7 @@
 #include "Net/UnrealNetwork.h"
 
 UGasProjectAttributeSet::UGasProjectAttributeSet()
-	: Health(40.0f), MaxHealth(60.0f)
+	: Health(100.0f), MaxHealth(100.0f)
 {
 }
 
